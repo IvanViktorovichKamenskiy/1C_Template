@@ -220,6 +220,7 @@
 			<CommonModule>бит_ОбщегоНазначенияПолныеПрава</CommonModule>
 			<CommonModule>бит_ОбновлениеРелизаВызовСервера</CommonModule>
 			<CommonModule>бит_ПодпискиНаСобытия</CommonModule>
+			<EventSubscription>бит_ДокументыОбработкаПроведения</EventSubscription>
 			<Catalog>бит_НастройкиУчета</Catalog>
 		</ChildObjects>
 	</Configuration>
