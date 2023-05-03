@@ -220,7 +220,14 @@
 			<CommonModule>бит_ОбщегоНазначенияПолныеПрава</CommonModule>
 			<CommonModule>бит_ОбновлениеРелизаВызовСервера</CommonModule>
 			<CommonModule>бит_ПодпискиНаСобытия</CommonModule>
-			<EventSubscription>бит_ДокументыОбработкаПроведения</EventSubscription>
+			<EventSubscription>бит_ПриКопировании</EventSubscription>
+			<EventSubscription>бит_ОбработкаЗаполнения</EventSubscription>
+			<EventSubscription>бит_ОбработкаПроверкиЗаполнения</EventSubscription>
+			<EventSubscription>бит_ПередЗаписью</EventSubscription>
+			<EventSubscription>бит_ДокументыПередЗаписью</EventSubscription>
+			<EventSubscription>бит_ПриЗаписи</EventSubscription>
+			<EventSubscription>бит_ОбработкаПроведения</EventSubscription>
+			<EventSubscription>бит_ОбработкаУдаленияПроведения</EventSubscription>
 			<Catalog>бит_НастройкиУчета</Catalog>
 		</ChildObjects>
 	</Configuration>
